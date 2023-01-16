@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/road-to-react/static/css/main.b10ce008.css",
-    "main.js": "/road-to-react/static/js/main.ffb809c0.js",
+    "main.js": "/road-to-react/static/js/main.7959ab8f.js",
     "index.html": "/road-to-react/index.html",
     "main.b10ce008.css.map": "/road-to-react/static/css/main.b10ce008.css.map",
-    "main.ffb809c0.js.map": "/road-to-react/static/js/main.ffb809c0.js.map"
+    "main.7959ab8f.js.map": "/road-to-react/static/js/main.7959ab8f.js.map"
   },
   "entrypoints": [
     "static/css/main.b10ce008.css",
-    "static/js/main.ffb809c0.js"
+    "static/js/main.7959ab8f.js"
   ]
 }
